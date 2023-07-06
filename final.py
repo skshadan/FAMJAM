@@ -12,6 +12,7 @@ import asyncio
 from discord import ui
 
 from pymongo import MongoClient
+import pymongo
 from discord import DMChannel, TextChannel
 from time import sleep
 
